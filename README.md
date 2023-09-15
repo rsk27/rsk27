@@ -13,6 +13,11 @@ Welcome to my GitHub profile! I'm a passionate Mechanical Engineer with interest
 - [Email](mailto:kumarraghav449@gmail.com)
 - [Twitter](https://twitter.com/Arpeggio27)
 
+## My Github Status 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rsk27&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 ## 🛠️ Technologies and Tools
 
 ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Machine%20Learning%20%7C%20Deep%20Learning-blueviolet)
@@ -36,7 +41,7 @@ If you find any issues or want to contribute to my projects, feel free to create
 You can add more sections like 'Upcoming Projects,' 'Publications,' 'Achievements,' 'Certificates,' etc., based on your preferences.
 -->
 ## 🌍 Visitors
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/3.js?i=5ek0m4mwapb&amp;b=7&amp;s=0&amp;m=1&amp;cl=ffffff&amp;co=010020&amp;cd=aa0000&amp;v0=60&amp;v1=60&amp;r=1" async="async"></script>)
 
-[![Visitor Map](<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5du18tqrjw8&amp;m=0c&amp;c=ff0000&amp;cr1=ffffff&amp;f=times_new_roman&amp;l=1&amp;cw=ffffff&amp;cb=000000" async="async"></script>)](https://www.revolvermaps.com/)
 
 
