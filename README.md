@@ -1,12 +1,8 @@
 # Hi there, I'm Raghav S kumar 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/harshit0017?style=social)](https://github.com/harshit0017)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hs104208?style=social)](https://twitter.com/hs104208)
-
 Welcome to my GitHub profile! I'm passionate about Robotics,Space Applications,Machine Learning, AI, and Deep Learning. Here you'll find some of my projects and contributions in these areas. Feel free to explore and connect.
 
 ## 🌱 I'm Currently Learning
-- Machine Learning Techniques
 - Computer Vision Application in Robotics Domain
 - Reinforcement Learning
 - Advanced Deep Learning techniques
@@ -14,10 +10,6 @@ Welcome to my GitHub profile! I'm passionate about Robotics,Space Applications,M
 ## 💬 Let's Connect
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/raghav-s-kumar-032499142) 
-
-## 📊 GitHub Stats
-
-![Raghav S kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshit0017&show_icons=true&theme=radical)
 
 ## 🛠️ Technologies and Tools
 
