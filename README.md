@@ -1,6 +1,6 @@
 # Hi there, I'm Raghav S kumar 👋
 
-Welcome to my GitHub profile! I'm passionate about Robotics,Space Applications,Machine Learning, AI, and Deep Learning. Here you'll find some of my projects and contributions in these areas. Feel free to explore and connect.
+Welcome to my GitHub profile! I'm a passionate mechanical engineer with interests in robotics, space applications, machine learning, AI, and deep learning. Here you can find some of my projects and contributions in these areas. Feel free to explore and connect.
 
 ## 🌱 I'm Currently Learning
 - Computer Vision Application in Robotics Domain
