@@ -9,7 +9,9 @@ Welcome to my GitHub profile! I'm passionate about Robotics,Space Applications,M
 
 ## 💬 Let's Connect
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/raghav-s-kumar-032499142) 
+[LinkedIn](https://www.linkedin.com/in/raghav-s-kumar-032499142)
+[Email](mailto:kumarraghav449@gmail.com)
+[Twitter](@Arpeggio27)
 
 ## 🛠️ Technologies and Tools
 
