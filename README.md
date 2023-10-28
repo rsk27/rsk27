@@ -1,4 +1,4 @@
-# Hi there, I'm Raghav S kumar 👋
+# Hi there, I'm Raghav 
 
 Welcome to my GitHub profile! I'm a passionate Mechanical Engineer with interests in Robotics, Space Applications, Machine learning, AI and Deep learning. Here you can find some of my projects and contributions in these areas. Feel free to explore and connect.
 
@@ -41,11 +41,6 @@ Welcome to my GitHub profile! I'm a passionate Mechanical Engineer with interest
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-
-
-## 🤝 Contributing
-
-If you find any issues or want to contribute to my projects, feel free to create a pull request or open an issue.
 
 <!--
 You can add more sections like 'Upcoming Projects,' 'Publications,' 'Achievements,' 'Certificates,' etc., based on your preferences.
