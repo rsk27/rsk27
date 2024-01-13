@@ -1,4 +1,4 @@
-# Hi there, I'm Raghav 
+## <img src="https://github.com/rsk27/rsk27/blob/main/header.png" alt="banner that says Hi Im Raghav">
 
 Welcome to my GitHub profile! I'm a passionate Mechanical Engineer with interests in Robotics, Space Applications, Machine learning, Artificial Intelligence and Deep learning. Here you can find some of my projects and contributions in these areas. Feel free to explore and connect.
 
